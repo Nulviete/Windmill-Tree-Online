@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.6e6cd505.js";import{_ as t,E as a,F as s,G as o,I as r}from"./index.a1fdec07.js";import"./render.308794b1.js";const c={},n=r("p",null,"Latest News",-1);function p(_,d,i,f,l,m){return a(),s(e,{padding:"",class:"bg-accent"},{default:o(()=>[n]),_:1})}var g=t(c,[["render",p]]);export{g as default};

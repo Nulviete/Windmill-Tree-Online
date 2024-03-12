@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.92935b66.js";import{_ as o,G as a,H as t,I as r,K as s}from"./index.579bc2f3.js";import"./render.b038a040.js";const c={},_=s("h5",null,"Da Toolbox page",-1);function n(d,f){return a(),t(e,{padding:""},{default:r(()=>[_]),_:1})}var m=o(c,[["render",n]]);export{m as default};
